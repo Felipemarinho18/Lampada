@@ -1,0 +1,25 @@
+body
+{
+    background-color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
+.lamp-container
+{
+    background-color: #fffc;
+    align-items: center;
+    width: 600px;
+    margin: 10px auto;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+button
+{
+    padding: 40px;
+    width: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+    
+}
